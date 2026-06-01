@@ -38,7 +38,7 @@ Download the .pbix file from this repository
 Open the file using Power BI Desktop
 Explore the interactive visualizations and filters
 
-![Sales Dashboard](images/dashboard.png)
+![Dashboard Preview](Images/dashboard.png)
 
 # Dashboard de Gestión de Ventas 📊
 
@@ -80,4 +80,4 @@ Diseñar un dashboard dinámico e interactivo que permita:
 - Abrir el archivo en Power BI Desktop
 - Explorar las visualizaciones y filtros interactivos
 
-![Sales Dashboard](images/dashboard.png)
+![Dashboard Preview](Images/dashboard.png)
